@@ -1,0 +1,14 @@
+<svg width="217" height="169" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="171" width="219" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="none" stroke-width="0" y="2" x="2" height="400" width="580"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" font-style="italic" font-weight="bold" transform="rotate(-19.648408889770508 105.50002288818364,85.28421783447271) matrix(1.8758293273569817,0,0,2.1074184747098035,-214.64969887842733,-221.1935061358219) " xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="34" id="svg_1" y="157.207548" x="111.193826" stroke-width="0" fill="#FFFFFF">Gibbon</text>
+ </g>
+</svg>
